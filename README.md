@@ -5,7 +5,7 @@
 This repository contains an end-to-end PyTorch framework for designing, implementing, and benchmarking adversarial attacks, empirical and certified defense mechanisms, and generative diffusion purification models on deep neural networks. Built on top of CIFAR-10 and a pre-trained ResNet-20 architecture, all attack vectors and defenses are implemented natively from mathematical first principles in a unified workspace without relying on high-level attack libraries (such as `Foolbox` or `Torchattacks`).
 
 ### 👤 Authors & Context
-* **Developers:** [Arvin Baghal Asl](https://github.com/arvinasli) & Arash Akbari
+* **Developers:** [Arvin Baghal Asl](https://github.com/arvinasli) & [Arash Akbari](https://github.com/brokearash)
 * **Institution:** Sharif University of Technology (SUT)
 * **Course:** Artificial Intelligence
 * **Dataset:** CIFAR-10 ($60,000$ $32 \times 32$ RGB images, 10 classes)
